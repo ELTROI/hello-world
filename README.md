@@ -1,2 +1,3 @@
 # hello-world
-My firt repository on github
+I'm Zakarya ELomari i'm junior developer, i like python and javascript. 
+This my first contribution on github.
